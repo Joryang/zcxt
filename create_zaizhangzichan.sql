@@ -16,4 +16,5 @@ cun_fang_di_dian text,
 gong_huo_shang text,
 shi_yong_nian_xian integer not null,
 ka_pian_bian_hao text not null,
-zi_chan_da_lei text not null);
+zi_chan_da_lei text not null
+beizhu text);
