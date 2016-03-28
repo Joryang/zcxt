@@ -1,4 +1,4 @@
-create table zaizhangzichan (
+create table zai_zhang_zi_chan (
 id integer not null primary key,
 zi_chan_ming_cheng text not null,
 zi_chan_dai_ma text not null,
